@@ -26,14 +26,3 @@ class Queue<T> {
         this._queue.length = 0;
     }
 }
-
-const q = new Queue<string>();
-
-q.enqueue('a');
-console.log(q.size);
-
-q.enqueue('b');
-
-console.log(q.dequeue())
-console.log(q.size)
-console.log(q.dequeue())
