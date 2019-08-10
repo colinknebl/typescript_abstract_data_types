@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"alwaysStrict": true,
+		"declaration": true,
+		"declarationDir": "./build/types",
+		"declarationMap": true,
+		"disableSizeLimit": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"jsx": "preserve",
+		"module": "es6",
+		"noImplicitAny": true,
+		"noImplicitReturns": false,
+		"noImplicitThis": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"outDir": "./build/dist",
+		"pretty": true,
+		"sourceMap": true,
+		"strict": true,
+		"target": "esnext"
+	}
+}
